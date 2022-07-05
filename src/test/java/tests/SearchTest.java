@@ -19,7 +19,7 @@ public class SearchTest extends CoreTestCase {
 
         onboardingPage.skipOnboarding();
         startPage.initSearch();
-        searchPage.findByText("Java");
+        searchPage.findByText("wfewfewfwegweg");
         searchPage.selectByText("Island of Indonesia");
     }
 }
